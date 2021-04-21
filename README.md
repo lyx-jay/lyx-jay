@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Lyx 👋
 
+Now i am a student and wanna be a front-end developer.
 <!--
 **lyx-jay/lyx-jay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
