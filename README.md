@@ -2,6 +2,8 @@
 
 Now i am a student and wanna be a front-end developer.
 
+万事无它,唯手熟尔
+
 **Languages and Tools**:
 
 Js Vue React
