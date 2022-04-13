@@ -6,7 +6,7 @@ Now i am a student and wanna be a front-end developer.
 
 **Languages and Tools**:
 
-Js Vue React
+Js / Vue / React
 
 ![](https://github-readme-stats.vercel.app/api?username=lyx-jay)
 <!--
