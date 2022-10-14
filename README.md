@@ -1,8 +1,8 @@
 ### Hi there, I'm Lyx 👋
 
-Now i am a student and wanna be a front-end developer.
+I am a fronted software developer and have a passion in open source.
 
-**Motto**：万事无它 唯手熟尔
+**Motto**：Idealism Freedom Enthusiasm
 
 **Languages and Tools**:
 
